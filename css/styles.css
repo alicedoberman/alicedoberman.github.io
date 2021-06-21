@@ -1,0 +1,33 @@
+body{
+    background-image: url("/background.jpg");
+}
+.class-1{
+    background-color:lightgrey;
+    border-radius: 30px;
+    border:ridge red 10px;
+    /* margin:5%; */
+    margin-left: 3.5%;
+    /* margin: auto */
+    padding: 2.5%;
+    width: 85%;
+}
+
+.class-1 h1{
+    font-family: serif ;
+    text-align: center;
+    text-shadow: 5px 3px 5px #41a3ff;
+}
+
+/* h1{
+    border:ridge red 10px;
+    width: 60%;
+    padding-top:1%;
+    margin: auto;
+} */
+
+footer{
+    background-color: black;
+    color:white;
+    padding: 3%;
+}
+
